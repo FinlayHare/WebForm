@@ -1,1 +1,2 @@
 # WebForm
+This application uses Bootstrap and jQuery AJAX, that communicates with the test API at https://reqres.in. This is an API intended for testing clients, where you can simulate CRUD functionalities. Data retrieval happens for real, but data modification is only simulated. 
